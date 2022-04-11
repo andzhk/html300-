@@ -1,0 +1,26 @@
+For the course project, I am thinking to make something that I could put in my design portfolio since I am an UX Designer.
+
+I am thinking to create a website where UX Designers can find resources to learn from. Particularly - great tutorials and life hacks on how to use Figma productively,
+maybe some youtube videos that will help the beginners; how to prepare for an interview and etc.
+Maybe even a guide consisted of topics from A(just starting learning) to Z (an interview process), as well as inspiring UX design portfolios.
+
+I am not exactly sure how many pages will I need but I want to make the website as clear as possible without unnecessary content.
+
+One of the APIs I will use for sure is Youtube one and probably Figma one as well.
+
+Pages that will be included for sure:
+
+Landing page;
+
+Overview page;
+
+Beginners guide (possible bootcamps to take, video introductions, "What to start with?");
+
+Creating ultimate wireframes with Figma (video tutorials, personal tips and tricks, Figma designers to follow on Tiktok);
+
+Interview preparation (what do you need to know? How to prepare? Some possible youtube videos with examples and preparation);
+
+And I am sure there will be more pages that will come to my mind while creating the website.
+
+The reason of my idea is to help starting UX designers to find all the info they need without spending too much time browsing online.
+This was the issue I bumped into while learning Design and I know it would be super helpful to have some sort of guide to study and learn from.
